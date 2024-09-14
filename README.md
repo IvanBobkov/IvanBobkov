@@ -39,4 +39,5 @@ if theme == 1:
         print(i, end='', flush=True)
 
 NOT WORKING!!!!!!!!!!
+I WILL REWORK IT ON MY WEEKENDS
 
