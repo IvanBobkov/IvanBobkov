@@ -37,3 +37,6 @@ if theme == 1:
     for i in txt:  # этот цикл будет брать по 1 буковке из тхт
         time.sleep(0.01)
         print(i, end='', flush=True)
+
+NOT WORKING!!!!!!!!!!
+
